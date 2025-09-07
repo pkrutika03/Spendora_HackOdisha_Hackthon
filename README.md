@@ -68,7 +68,9 @@ Stay ahead of your finances with **Smart Alerts** that notify you about:
 - Missed savings goals  
 
 Plus, Spendora’s AI engine delivers personalized insights to help you improve budgeting habits, reduce unnecessary expenses, and plan for future goals.
+
 Thank You!
+
 Contributors:
 ## P.KRUTIKA
 ## MONISHA MAHATO
