@@ -1,73 +1,48 @@
-# Welcome to your Lovable project
+## 💼 Spendora: Smarter Finance, Powered by AI
 
-## Project info
+Hello everyone! In this exciting era of generative AI, we bring you **Spendora** — a smart finance management tool designed to help you take control of your financial future.
 
-**URL**: https://lovable.dev/projects/c84348b2-61f1-428f-90ca-21947670c562
+With Spendora, you can:
 
-## How can I edit this code?
+- ✅ Track your expenses effortlessly  
+- ✅ Split your income into needs, wants, and savings  
+- ✅ Receive AI-powered insights for smarter financial decisions  
 
-There are several ways of editing your application.
+Spendora includes:
 
-**Use Lovable**
+- 📊 **Expense Dashboard** — Visualize spending patterns and monitor financial health  
+- 💸 **Budget Splitter** — Automate savings and optimize monthly budgeting  
+- 📈 **Investment Hub** — Discover opportunities to grow your wealth  
+- 🔔 **Smart Alerts** — Get notified about spending habits and unusual activity  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c84348b2-61f1-428f-90ca-21947670c562) and start prompting.
+In short, Spendora gives you everything you need to manage your money more intelligently and confidently.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📊 Expense Dashboard
 
-**Use your preferred IDE**
+The Expense Dashboard offers a clear snapshot of your financial life:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Total spending, savings, and monthly budget at a glance  
+- Categorized breakdowns (e.g., food, transport, entertainment)  
+- Payment method insights (UPI, card, cash)  
+- Interactive charts for visual spending overview  
+- Recent Transactions feed — from Swiggy orders to Netflix subscriptions  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Spendora makes financial management transparent, intuitive, and effortless.
+---
 
-Follow these steps:
+## 💡 Budget Splitter & Investment Hub
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Spendora’s **Budget Splitter** helps you divide your income into essential needs, lifestyle wants, and long-term savings — all with minimal effort. It’s designed to promote financial discipline while giving you flexibility.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+The **Investment Hub** empowers you to grow your wealth with curated suggestions and tracking tools. Whether you're a beginner or seasoned investor, Spendora helps you make informed decisions with confidence.
+---
+## 🔔 Smart Alerts & AI Insights
 
-# Step 3: Install the necessary dependencies.
-npm i
+Stay ahead of your finances with **Smart Alerts** that notify you about:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- Overspending in specific categories  
+- Unusual transactions  
+- Missed savings goals  
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c84348b2-61f1-428f-90ca-21947670c562) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Plus, Spendora’s AI engine delivers personalized insights to help you improve budgeting habits, reduce unnecessary expenses, and plan for future goals.
