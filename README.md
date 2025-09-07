@@ -16,6 +16,7 @@ Spendora includes:
 - 🔔 **Smart Alerts** — Get notified about spending habits and unusual activity  
 
 In short, Spendora gives you everything you need to manage your money more intelligently and confidently.
+
 ---
 
 ## 📊 Expense Dashboard
@@ -29,6 +30,7 @@ The Expense Dashboard offers a clear snapshot of your financial life:
 - Recent Transactions feed — from Swiggy orders to Netflix subscriptions  
 
 Spendora makes financial management transparent, intuitive, and effortless.
+
 ---
 
 ## 💡 Budget Splitter & Investment Hub
@@ -36,6 +38,7 @@ Spendora makes financial management transparent, intuitive, and effortless.
 Spendora’s **Budget Splitter** helps you divide your income into essential needs, lifestyle wants, and long-term savings — all with minimal effort. It’s designed to promote financial discipline while giving you flexibility.
 
 The **Investment Hub** empowers you to grow your wealth with curated suggestions and tracking tools. Whether you're a beginner or seasoned investor, Spendora helps you make informed decisions with confidence.
+
 ---
 ## 🔔 Smart Alerts & AI Insights
 
